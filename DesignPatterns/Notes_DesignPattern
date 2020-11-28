@@ -1,0 +1,74 @@
+
+
+
+DESIGN PATTERS -
+* Well known solutions for problems
+* no need to redesign the wheel
+* Properties
+    * Language Neutral
+    * Dynamic
+    * Promote Customization
+
+Behavioral Pattern
+* Creational polymorphism
+    * Polymorphism
+    * Methods and Functions
+    * Inheritence
+
+Object Oriented Programing
+Inheritence anf polymorphism
+
+------------------------------------------------------------------------------------------------------------------------
+PATTERN CONTEXT
+* Participants
+    Classes involved to form a design pattern
+* QUALITY Attributes
+    Non functional attributes
+* FORCES
+    various variables
+    trade-offs
+* CONSEQUENCES
+    * side effects
+    * decision makers
+------------------------------------------------------------------------------------------------------------------------
+PATTERN LANGUAGE
+* NAME
+    gist of the pattern
+* CONTEXT
+    defines the scenario where we are using the patters
+    insights
+* PROBLEMS
+* SOLUTION
+    * structure - specifies the pattern
+    * behaviors -
+* RELATED OTHER PATTERNS
+    * lists other patters
+------------------------------------------------------------------------------------------------------------------------
+CREATIONAL PATTERNS
+* FACTORY
+    * PROBLEM
+        * uncertainities in the object to be used
+        * uncertainity in what system needs to be used on what condition
+    * Solution
+        * addition of new types of objects is easy
+        * user is oblivious to how things work in the backend for the creation
+------------------------------------------------------------------------------------------------------------------------
+ABSTRACT FACTORY
+    * PROBLEM
+        * recieves set of objects
+        * uncertainity prevails untill runtime
+    * Solution
+        * abstract factory
+        * concrete factory
+        * abstract product
+        * concrete product
+------------------------------------------------------------------------------------------------------------------------
+SIGNLETON
+    * PROBLEM
+        only one object to be formed
+        single source of information which is stored in the global variable
+    * SOLUTION
+
+
+
+
